@@ -38,3 +38,5 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 ~$plication-form-for-Open-Science-Fund-final-2.docx
+.DS_Store
+~$230117_application-form-for-Open-Science-Fund-final.docx
